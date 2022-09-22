@@ -1,0 +1,54 @@
+##############################TRANSACTION##############################
+
+-Card Holder Name:- Transaction Approved
+-Card PAN:- 1098336017914447272
+-Card Expiry Date:- 02/25
+-Transaction Date:- 22/09/2022
+-Transaction Max Amount:- 20000.00
+-Transaction Amount:- 10000.00
+-Balance BEFORE Transaction = 74317.00
+-New Balance =  64317.00
+-Transaction State:- APPROVED
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- Exceed maximum amount
+-Card PAN:- 1098336017914447272
+-Card Expiry Date:- 02/25
+-Transaction Date:- 22/09/2022
+-Transaction Max Amount:- 10000.00
+-Transaction Amount:- 20000.00
+-Balance BEFORE Transaction = 74317.00
+-New Balance =  74317.00
+-Transaction State:- DECLINED_EXEED_MAX_AMOUNT
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- Insuffecient fund story
+-Card PAN:- 1065486947567638746
+-Card Expiry Date:- 02/25
+-Transaction Date:- 22/09/2022
+-Transaction Max Amount:- 30000.00
+-Transaction Amount:- 20000.00
+-Balance BEFORE Transaction = 12366.00
+-New Balance =  12366.00
+-Transaction State:- DECLINED_INSUFFECIENT_FUND
+
+#######################################################################
+
+##############################TRANSACTION##############################
+
+-Card Holder Name:- Invalid card user story
+-Card PAN:- 1098336017914447271
+-Card Expiry Date:- 02/25
+-Transaction Date:- 22/09/2022
+-Transaction Max Amount:- 20000.00
+-Transaction Amount:- 10000.00
+-Transaction State:- DECLINED_STOLEN_CARD
+
+#######################################################################
+

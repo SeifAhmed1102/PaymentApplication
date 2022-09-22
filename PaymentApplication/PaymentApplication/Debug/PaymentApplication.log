@@ -1,0 +1,7 @@
+﻿  application.c
+  card.c
+  main.c
+  server.c
+  terminal.c
+  Generating Code...
+  PaymentApplication.vcxproj -> C:\Users\Seif\OneDrive - Cairo University - Students\Documents\EGFWD\PaymentApplication\Debug\PaymentApplication.exe
